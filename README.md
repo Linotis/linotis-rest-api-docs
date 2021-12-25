@@ -14,4 +14,10 @@ All API requests are performed by sending an HTTP request using one of the follo
 ## Resource list
 ### User
 - [**`POST` Register user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_register.md)
-- [**`POST` Login user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md) 
+- [**`POST` Login user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md)
+### Collection
+- [**`POST` Create collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
+- [**`GET` All collections list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
+- [**`GET` Collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_collection.md)
+- [**`PATCH` Update collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
+- [**`DELETE` Delete collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
