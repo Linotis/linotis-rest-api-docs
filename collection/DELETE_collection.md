@@ -7,6 +7,9 @@ DELETE http/{{host}}/collection/:id
 ## Parameters
 
 ### URI Parameters
+| Field  | Required | Type|
+| ------------- | ------------- | ----- |
+| id  | Y| String |
 
 None
 ### Header parameters
@@ -14,9 +17,7 @@ None
 | ------------- | ------------- | ----- |
 | Authorization  | Y| String |
 ### Body Parameters
-| Field  | Required | Type|
-| ------------- | ------------- | ----- |
-| name  | Y| String |
+None
 
 ## Response
 ### Success Response
