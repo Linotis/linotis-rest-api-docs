@@ -13,4 +13,5 @@ All API requests are performed by sending an HTTP request using one of the follo
 ## HTTP Response Codes
 ## Resource list
 ### User
-- [**`POST` Register user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_register.md) 
+- [**`POST` Register user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_register.md)
+- [**`POST` Login user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md) 
