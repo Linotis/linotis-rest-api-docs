@@ -21,3 +21,13 @@ All API requests are performed by sending an HTTP request using one of the follo
 - [**`GET` Collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_collection.md)
 - [**`PATCH` Update collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
 - [**`DELETE` Delete collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
+## License
+Copyright (C)  2021  Linotis.
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+
