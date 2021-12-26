@@ -34,6 +34,11 @@ Content: {
 Code: 401
 Content: Unauthorized
 ```
+OR
+```
+Code: 500
+Content: Collection validation failed: name: Path `name` is required.
+```
 
 ## Sample call
 ```

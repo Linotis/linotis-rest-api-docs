@@ -7,8 +7,9 @@ PATCH http/{{host}}/collection/:id
 ## Parameters
 
 ### URI Parameters
-
-None
+| Field  | Required | Type|
+| ------------- | ------------- | ----- |
+| id  | Y| String |
 ### Header parameters
 | Field  | Required | Type|
 | ------------- | ------------- | ----- |

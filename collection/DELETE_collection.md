@@ -11,7 +11,6 @@ DELETE http/{{host}}/collection/:id
 | ------------- | ------------- | ----- |
 | id  | Y| String |
 
-None
 ### Header parameters
 | Field  | Required | Type|
 | ------------- | ------------- | ----- |
