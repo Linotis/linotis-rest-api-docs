@@ -20,8 +20,8 @@ Each response will be returned with one of the following HTTP status codes:
 ### User
 - [**`POST` Register user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_register.md)
 - [**`POST` Login user**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md)
-- [**`GET` User info**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md)
-- [**`PATCH` Update user info**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/POST_login.md)
+- [**`GET` User info**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/GET_info.md)
+- [**`PATCH` Update user info**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/user/PATCH_info.md)
 ### Collection
 - [**`POST` Create collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
 - [**`GET` All collections list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
@@ -29,11 +29,11 @@ Each response will be returned with one of the following HTTP status codes:
 - [**`PATCH` Update collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
 - [**`DELETE` Delete collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
 ### Scribble
-- [**`POST` Create collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
-- [**`GET` All collections list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
-- [**`GET` Collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_collection.md)
-- [**`PATCH` Update collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
-- [**`DELETE` Delete collection**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
+- [**`POST` Create scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
+- [**`GET` All scribble list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
+- [**`GET` Scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_collection.md)
+- [**`PATCH` Update scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
+- [**`DELETE` Delete scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
 ### Language
 - [**`POST` Add language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
 - [**`GET` All languages list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
