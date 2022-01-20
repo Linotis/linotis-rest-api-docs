@@ -36,11 +36,11 @@ Each response will be returned with one of the following HTTP status codes:
 - [**`PATCH` Update scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
 - [**`DELETE` Delete scribble**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
 ### Language
-- [**`POST` Add language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/POST_collection.md)
-- [**`GET` All languages list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_all.md)
-- [**`GET` Language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/GET_collection.md)
-- [**`PATCH` Update language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/PATCH_collection.md)
-- [**`DELETE` Delete language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/collection/DELETE_collection.md)
+- [**`POST` Add language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/language/POST_language.md)
+- [**`GET` All languages list**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/language/GET_all.md)
+- [**`GET` Language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/language/GET_language.md)
+- [**`PATCH` Update language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/language/PATCH_language.md)
+- [**`DELETE` Delete language**](https://github.com/Linotis/linotis-rest-api-docs/blob/main/language/DELETE_language.md)
 
 ## License
 Copyright (C)  2021  Linotis.
